@@ -1,0 +1,6 @@
+1. If it's something I've done before, look through my old files to find how I did it before. Copy pieces of these to my current project and modify to fit
+
+2. Google "C# + (whatever I'm trying to do)
+- If there's a Microsoft Docs link that seems helpful in the results follow that (https://docs.microsoft.com/en-us/dotnet/csharp/)
+- If there's stackoverflow links that look like they're asking a similar question to me, look at those and browse all of the answers to determine what I need to do. If any of them mention parts of the language I'm unfamiliar with, I open the MS Docs of those as well
+
